@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TimeWatch/static/css/main.38a5d13f.css",
+    "main.js": "/TimeWatch/static/js/main.e1fa8957.js",
+    "index.html": "/TimeWatch/index.html",
+    "main.38a5d13f.css.map": "/TimeWatch/static/css/main.38a5d13f.css.map",
+    "main.e1fa8957.js.map": "/TimeWatch/static/js/main.e1fa8957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a5d13f.css",
+    "static/js/main.e1fa8957.js"
+  ]
+}
